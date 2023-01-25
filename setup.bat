@@ -19,3 +19,4 @@ haxelib update hscript
 haxelib update newgrounds
 haxelib git polymod https://github.com/larsiusprime/polymod.git
 haxelib git discord_rpc https://github.com/Aidan63/linc_discord-rpc
+haxelib install linc_luajit
